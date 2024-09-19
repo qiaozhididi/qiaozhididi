@@ -5,8 +5,9 @@
 
 我是乔治弟弟，目前主攻 Web 前端开发 技术栈为 Vue。
 
-![Qzfrato GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaozhididi&count_private=true)
-
+<a href="https://github.com/qiaozhididi/qiaozhididi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaozhididi&theme=dracula&layout=compact" alt="Top Langs" />
+</a>
 
 <!--
 **qiaozhididi/qiaozhididi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
