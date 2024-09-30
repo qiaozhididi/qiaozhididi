@@ -5,7 +5,7 @@
 
 我是乔治弟弟，目前主攻 Web 前端开发 技术栈为 Vue3。
 
-了解：node.js，Java+SSM，PHP+Laravel，C#，MySQL等。
+了解：node.js，Java+SSM，PHP+Laravel，C#，MySQL，MariaDB，MS SQL Server等。
 
 欢迎浏览<a href="https://qiaozhididi.github.io/Blog_Pages/">个人主页</a>
 
