@@ -6,7 +6,11 @@
 
 原Web 前端，技术栈为 Vue3。
 
-项目在学 React+.Net8.0全栈开发。Umi+QianKun 微前端开发。
+项目在做 
+
+<li>Nuxt + Node + Prisma + Joi + pgsql 全栈开发。</li>
+  
+<li>React+.Net8.0全栈开发。Umi+QianKun 微前端开发。</li>
 
 了解：node.js，Java+SSM，PHP+Laravel，C#，MySQL，MariaDB，MS SQL Server等。
 
