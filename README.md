@@ -14,8 +14,7 @@
 
 <li>.Net core 8.0 + Swagger 微服务后端开发。React + Umi + QianKun 微前端开发。</li>
 
-
-了解：node.js，Java+SSM，PHP+Laravel，.Net Core， C#，MySQL，MariaDB，MS SQL Server等。
+<li>了解：node.js，Java+SSM，PHP+Laravel，.Net Core， C#，MySQL，MariaDB，MS SQL Server等。</li>
 
 欢迎浏览<a href="https://qiaozhididi.github.io/Blog_Pages/">个人主页</a>
 
