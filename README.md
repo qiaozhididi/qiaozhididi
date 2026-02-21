@@ -14,14 +14,15 @@
 
 <li>.Net core 8.0 + Swagger 微服务后端开发。React + Umi + QianKun 微前端开发。</li>
 
-<li>熟悉使用：node.js服务端，Java网关设计，Python爬虫应用，PHP+Laravel，.Net Core， C#，MySQL，MariaDB，MSSQL Server等。</li>
-
+### 熟悉技术栈：
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,py,java,cs,dotnet,laravel&theme=dark)
 
 欢迎浏览<a href="https://qiaozhididi.github.io/Blog_Pages/">个人主页</a>
 
-<a href="https://github.com/qiaozhididi">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qiaozhididi&theme=dracula&layout=compact" alt="Top Langs" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qiaozhididi&theme=dracula" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiaozhididi&theme=dracula" alt="Most commit language" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qiaozhididi&theme=dracula&hide_border=true" alt="Activity graph" />
 
 <!--
 **qiaozhididi/qiaozhididi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
