@@ -6,6 +6,8 @@
 
 ### 项目经验：
 
+<li>Python + FastAPI + Uvicorn + LangGraph + LLM 的 RAG 知识库开发</li>
+
 <li>Nuxt + Node + Prisma + Joi + pgsql Vue全栈开发。</li>
 
 <li>React + Electron 跨平台应用开发。</li>
